@@ -12,6 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScene.unity
     guid: a6b646a15f1a76942bc481c4db82dd22
   - enabled: 1
+ 小川峻平(偽)
     path: Assets/Scenes/CharScene.unity
     guid: 7b3c3d043a0966b44af13db455b85197
+ main
   m_configObjects: {}

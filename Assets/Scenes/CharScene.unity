@@ -123,7 +123,9 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &1086321267
+ 小川峻平(偽)
+ !u!1 &1086321267
+ main
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -131,9 +133,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1086321270}
-  - component: {fileID: 1086321269}
-  - component: {fileID: 1086321268}
+ 小川峻平(偽)
+   component: {fileID: 1086321270}
+   component: {fileID: 1086321269}
+   component: {fileID: 1086321268} 
+   main
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -219,4 +223,6 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 1086321270}
+ 小川峻平(偽)
+   {fileID: 1086321270}
+ main
